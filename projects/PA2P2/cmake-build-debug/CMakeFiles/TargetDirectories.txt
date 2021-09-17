@@ -1,0 +1,3 @@
+C:/Users/kodyg/Desktop/txst/FALL 2020/assembly/PA2P2/cmake-build-debug/CMakeFiles/A2P2.dir
+C:/Users/kodyg/Desktop/txst/FALL 2020/assembly/PA2P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kodyg/Desktop/txst/FALL 2020/assembly/PA2P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
